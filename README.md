@@ -12,9 +12,28 @@ MSE (Mean Squared Error) – Lower is better.
 ![image](https://github.com/user-attachments/assets/e4c55a1f-8adb-4d60-a79a-4ed416dfdc42)
 
 
-Overall Observations:
-● SRResNet consistently gives the best PSNR, SSIM, and lowest MSE.
-● SRGAN (14 epochs) usually performs better than SRGAN (5 epochs) as well as Bicubic.
-● Bicubic interpolation is always the weakest performer or similar to SRGAN (5 epochs).
+Overall Observations: 
+SRResNet consistently gives the best PSNR, SSIM, and lowest MSE.
+ 
+SRGAN (14 epochs) usually performs better than SRGAN (5 epochs) as well as Bicubic.
+
+Bicubic interpolation is always the weakest performer or similar to SRGAN (5 epochs).
+
+![image](https://github.com/user-attachments/assets/8c36fe43-fd36-4b46-9749-06267b8c6a6f)
+
+Image 1:
+![image](https://github.com/user-attachments/assets/7f58b994-a9f1-45ff-ba9e-9637c83b02b0)
+
+Image 2:
+![image](https://github.com/user-attachments/assets/883d7c28-133d-46cb-ba7b-cc96760aacca)
+
+Image 3:
+![image](https://github.com/user-attachments/assets/1bb4e6c3-0a4c-45ed-939f-544264c87605)
+
+Image 4:
+![image](https://github.com/user-attachments/assets/2858a321-e7fb-4996-9f4e-b835ee4e8805)
+
+Image 5:
+![image](https://github.com/user-attachments/assets/7766b0b2-dae6-4634-82c4-90428dfca8a8)
 
 
